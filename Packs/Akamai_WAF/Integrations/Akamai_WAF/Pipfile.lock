@@ -35,11 +35,12 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:6ae10321df3e464305a46e997da41ea56c1d311fb9ff1dd4e04d6f14653ec63a",
-                "sha256:8d15a5a7fde18536a249c49e07e8e462b8fc13de21b3c80e8a68315dfa227c99"
+                "sha256:035c1e85572b141bf1c3a3eff0e33a8eb74917522f2559075ff8d2fea780a1ae",
+                "sha256:42d35340cc5b9ba78e818ddbff0c5b1c2b779de448a340fd1b989f5fa8670e1b"
             ],
-            "markers": "python_version >= '3.5'",
-            "version": "==2022.5.18"
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==2026.10.19"
         },
         "charset-normalizer": {
             "hashes": [
